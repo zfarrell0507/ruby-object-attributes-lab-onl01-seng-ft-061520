@@ -9,5 +9,5 @@ class Dog
   end
 end
  
-natalie = Dog.new("Natalie")
+natalie = Dog.new
 natalie.name
