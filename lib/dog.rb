@@ -7,6 +7,8 @@ class Dog
   def name
     @name
   end
+  
+  
 end
  
 natalie = Dog.new
