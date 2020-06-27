@@ -1,4 +1,4 @@
-class Dog
+class Person
  
   def name=(dogs_name)
     @name = dogs_name
@@ -17,6 +17,6 @@ class Dog
   end
 end
  
-natalie = Dog.new
+natalie = Person.new
 natalie.name = "Natalie"
 natalie.breed = "Black Labrador"
